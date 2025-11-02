@@ -3,3 +3,4 @@ Add
 Message added by Joseph Wan. Pleased to make your acquaintance.
 
 This is hello from Thomas. I am adding a new line of code here.
+Hello again. I am here to add in a second line. I am Thomas
